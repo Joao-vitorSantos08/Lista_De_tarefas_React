@@ -1,6 +1,6 @@
 import "./index.css"
 import { BrowserRouter } from "react-router-dom"
-import RoutApp from "./routes"
+import RoutApp from "./routes/routes"
 
 const App = () => {
   return (
