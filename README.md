@@ -17,7 +17,7 @@ A aplicação permite que usuários criem uma conta, façam login e gerenciem su
 
 Os dados são armazenados no Firebase Firestore e a autenticação é realizada pelo Firebase Authentication.
 
-##  Funcionalidades
+## ⚙️ Funcionalidades
 
 - Cadastro de usuário
 - Login
@@ -26,7 +26,7 @@ Os dados são armazenados no Firebase Firestore e a autenticação é realizada 
 - Editar tarefas
 - Excluir tarefas
 
-##  Layout
+## 🎨 Layout
 
 ### Tela de Login
 
@@ -40,7 +40,7 @@ Os dados são armazenados no Firebase Firestore e a autenticação é realizada 
 
 ![Usuário 2](conta2.png)
 
-## Acesse o Site Online
+## 🌐 Acesse o Site Online
 Você pode visualizar o projeto diretamente no navegador sem precisar baixar:
 
 ➡️ [Clique aqui para acessar](https://lista-de-tarefas-react-bay.vercel.app/) 
@@ -56,7 +56,7 @@ Você pode visualizar o projeto diretamente no navegador sem precisar baixar:
 
 ---
 
-## Autor
+## 👨‍💻 Autor
 
 <a href="https://br.linkedin.com/in/Joao-vitorSantos08">
 João Vitor Santos souza</a>
@@ -64,7 +64,7 @@ João Vitor Santos souza</a>
  
 
 
-## Licença
+## 📄 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
