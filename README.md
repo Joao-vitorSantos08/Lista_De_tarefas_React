@@ -4,7 +4,7 @@
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
- <a href="#acesse-o-site-online">Acesse o Site Online</a> • 
+ <a href="#-acesse-o-site-online">Acesse o Site Online</a> • 
  <a href="#-licença">Licença</a>
 </p>
 
