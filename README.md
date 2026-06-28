@@ -5,7 +5,6 @@
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#acesse-o-site-online">Acesse o Site Online</a> • 
- <a href="#-autor">Autor</a> • 
  <a href="#-licença">Licença</a>
 </p>
 
