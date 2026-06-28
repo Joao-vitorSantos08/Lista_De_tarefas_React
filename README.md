@@ -23,7 +23,7 @@ Os dados são armazenados no Firebase Firestore e a autenticação é realizada 
 - Logout
 - Criar tarefas
 - Editar tarefas
-- Excluir tarefas
+- Concluir tarefas
 
 ## 🎨 Layout
 
