@@ -3,6 +3,7 @@ import Home from "../pages/home"
 import Register from "../pages/register"
 import Admin from "../pages/admin"
 import Private from "./private"
+import Erro from "../pages/error"
 
 const RoutApp = () => {
     return (
@@ -11,6 +12,7 @@ const RoutApp = () => {
                 <Route path="/register" element={<Register/>}/>
                 <Route path="/admin" element={<Private> <Admin/> </Private>}/>
 
+                <Route path="*" element={ <Erro/>}/>
             </Routes>
       
     )
