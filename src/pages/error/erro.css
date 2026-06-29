@@ -48,12 +48,12 @@
 }
 
 
-a:hover {
+.error-actions a:hover {
     background-color: #1e52f1;
 }
 
 
-a {
+.error-actions a {
     display: inline-block;
     width: 100%;
     padding: 12px 25px;
